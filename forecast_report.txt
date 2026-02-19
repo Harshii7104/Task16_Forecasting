@@ -1,0 +1,20 @@
+Task 16 – Time Series Forecasting Report
+
+Dataset:
+Store Sales - Time Series Forecasting (Kaggle)
+
+Data Preparation:
+- Converted date column to datetime
+- Aggregated daily sales
+- Resampled to monthly sales
+
+Model Used:
+Exponential Smoothing
+
+Evaluation Metrics:
+MAE: ______
+MAPE: ______ %
+
+Conclusion:
+The model captures overall sales trend.
+Forecasting can help business planning and inventory decisions.
